@@ -21,7 +21,12 @@ Python, Pandas, Matplotlib, Google Colab
 - Insight extraction
 
 ## Visual Results
-(put your graph images here)
+<img width="759" height="609" alt="renewable_vs_fossil_energy" src="https://github.com/user-attachments/assets/88d41cb9-4e1f-48fe-bcec-f30da9d24c30" />
+
+<img width="785" height="656" alt="co2_emissions_trend" src="https://github.com/user-attachments/assets/b9532334-9aa6-4231-b7a1-2bb5dc6d46d9" />
+<img width="771" height="634" alt="energy_intensity" src="https://github.com/user-attachments/assets/bcb6064d-c1b5-4df5-b4d2-aec20278fd93" />
+
+
 
 ## Key Insights
 - Fossil fuels dominate global energy mix
